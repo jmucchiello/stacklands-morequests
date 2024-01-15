@@ -1,3 +1,31 @@
-# Stacklands Mod Template
+# More Quests
 
-For information about using the template, see the Modding Wiki
+This is exactly what it sounds like. Continuations of the existing quests and entirely new quests, etc.
+
+Samples:
+
+* Reach moon 100
+* Reach moon 500
+* Have 100 food
+* Have 500 food
+* Have 50 Mushrooms
+* Have 20 Gold Ore
+* Have 30 Flint
+* Have 20 *Full* Coin Chests
+
+There are also weirder and far more difficult quests:
+
+* Have a villager with 2 status effects at the same time
+* Have a villager with 5 status effects at the same time
+* Have a villager with 10 status effects at the same time
+* make 200 coins in one moon
+* make 1000 coins in one moon
+* kill 2 demons in one moon
+* Eat 10,000 food
+* Sell 10,000 food
+* Have 20 villagers, none are idle
+* Have a villager survive 100 fights
+
+And I plan a few quests that are global to your installation
+
+* 

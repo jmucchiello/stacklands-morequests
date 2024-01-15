@@ -1,1 +1,7 @@
 Term	Notes	English
+quest_ _text		---UNKNOWN---
+quest_blueprints_completed_text		[count] Blueprints Completed
+quest_have_wood_text		Have [count] Wood
+quest_have_stone_text		Have [count] Stone
+quest_have_mushrooms_text		Have [count] Mushrooms
+quest_villager_statuseffects_text		Have a Villager with [count] Status Effects
