@@ -40,6 +40,9 @@ namespace MoreQuestsModNS
             }                
         }
 
+        public void OnCardCreate(CardData card)
+        { }
+
 
         public override string ToString()
         {

@@ -24,6 +24,7 @@ namespace MoreQuestsModNS
             //WorldManagerPatches.Update += WM_OnUpdate;
             WorldManagerPatches.ApplyPatches(Harmony);
             Harmony.PatchAll(typeof(MoreQuests));
+            Harmony.PatchAll(typeof(Patches));
         }
 
         public void WM_OnNewGame(WorldManager _)

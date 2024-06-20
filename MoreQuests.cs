@@ -140,4 +140,6 @@ Eat 10,000 food
 
 Have 50 Unopened Booster Packs
 beat the demon lord with both curses on the board
-*/
+have one of each fish in one aquarium
+
+ */

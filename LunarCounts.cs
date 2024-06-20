@@ -24,15 +24,4 @@ namespace MoreQuestsModNS
         public void OnActionComplete(CardData card, string action) { }
         public void OnSpecialAction(string action) { }
     }
-
-    public class Patches 
-    {
-        [HarmonyPatch(typeof(WorldManager), "EndOfMonth")]
-        [HarmonyPrefix]
-        private static void WorldManager_EndOfMonth(WorldManager __instance)
-        {
-            MoreQuestsMod.Counts.lunarCount.EndOfMonthBegin();
-        }
-    }
-
 }
